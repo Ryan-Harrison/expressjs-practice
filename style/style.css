@@ -1,0 +1,33 @@
+#panel {
+  margin-top: 1em;
+}
+
+.panel-button {
+  display: block;
+  margin: auto;
+}
+
+#stage {
+  border-style: solid;
+  width: 80%;
+  height: 70%;
+  margin-top: 1em;
+}
+
+.stage-label {
+  text-align: right;
+}
+
+.confirmation-message {
+  width: 100%;
+  text-align: center;
+}
+
+.continue-button {
+  display: block;
+  margin-left: auto;
+}
+
+.stage-row {
+  margin: 1em 0 1em 0;
+}
